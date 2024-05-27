@@ -7,7 +7,7 @@
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
-[https://vaibhavji.medium.com/deploying-azure-kubernetes-service-aks-with-terraform-36d399d2627e](https://vaibhavji.medium.com/deploying-azure-kubernetes-service-aks-with-terraform-36d399d2627e)
+[https://medium.com/@vaibhavji/end-to-end-cicd-pipeline-using-azure-devops-build-and-release-pipeline-88d8e271c6ed](https://medium.com/@vaibhavji/end-to-end-cicd-pipeline-using-azure-devops-build-and-release-pipeline-88d8e271c6ed)
 - [Medium](https://medium.com/geeky-bawa)
 - [geeky Traveller](https://sites.google.com/view/geeky-traveller/)
 - [Blogs](https://github.com/vaibhavhariaramani/blogs)
